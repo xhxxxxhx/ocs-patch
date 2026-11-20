@@ -1,6 +1,6 @@
-# 学习通 / 超星 刷课辅助脚本（Userscript）
+# OCS 补丁 · 学习通 / 超星 刷课脚本
 
-两个配合 **OCS 网课助手** 使用的用户脚本，解决两件事：
+**OCS 补丁**：两个配合 [OCS 网课助手](https://docs.ocsjs.com) 使用的用户脚本，专治 OCS 自己搞不定的两种卡死：
 
 1. **任务点完成后不跳下一章** —— 页面渲染慢导致点击落空时自动重试；长时间无进展按级自救。
 2. **章节测验答错** —— 从成绩页读出正确答案后重做重填，循环到满分；题库没答案时按看门狗自动蒙题并交卷。
@@ -92,4 +92,5 @@ https://raw.githubusercontent.com/xhxxxxhx/xxx/main/cx-quiz-retry.user.js
 ## License
 
 [MIT](LICENSE)
+
 
