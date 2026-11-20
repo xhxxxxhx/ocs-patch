@@ -26,8 +26,8 @@
 在浏览器安装好管理器后，直接打开对应文件的 raw 地址，管理器会弹出安装页：
 
 ```
-https://raw.githubusercontent.com/<你的用户名>/<仓库名>/main/cx-auto-next.user.js
-https://raw.githubusercontent.com/<你的用户名>/<仓库名>/main/cx-quiz-retry.user.js
+https://raw.githubusercontent.com/xhxxxxhx/xxx/main/cx-auto-next.user.js
+https://raw.githubusercontent.com/xhxxxxhx/xxx/main/cx-quiz-retry.user.js
 ```
 
 **方式 2：本地导入**
@@ -47,3 +47,4 @@ https://raw.githubusercontent.com/<你的用户名>/<仓库名>/main/cx-quiz-ret
 ## License
 
 [MIT](LICENSE)
+
